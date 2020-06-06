@@ -5,7 +5,7 @@ To start app create an instance of Flashcards class with the following arguments
     `String[] args`   - command line arguments.  
 And then run `start()` method.  
 
-After starting it will ask for the action. There are following arguments:  
+After starting it will ask for the following action:  
 - `add`          - add card and it definition;  
 - `remove`       - remove flashcard;  
 - `import`       - import flashcards from file. File format: each card on new line (cardname:definition:numberOfWrongAnswers);  
